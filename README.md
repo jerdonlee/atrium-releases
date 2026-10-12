@@ -4,7 +4,7 @@ Windows downloads for Atrium, a worship and media presentation application.
 
 ## Install
 
-Download **Atrium-0.1.13-x64-setup.exe** from the [latest release](https://github.com/jerdonlee/atrium-releases/releases/latest). The app and setup have matching Atrium icons. The rounded charcoal/gold setup defaults to `C:\Program Files\Atrium`, includes the runtime, content library and all 16 optimized 1080p background videos, and creates a Start menu shortcut. Backgrounds appear in **Media → Backgrounds** as Built-in.
+Download **Atrium-0.1.14-x64-setup.exe** from the [latest release](https://github.com/jerdonlee/atrium-releases/releases/latest). The app and setup have matching Atrium icons. The rounded charcoal/gold setup defaults to `C:\Program Files\Atrium`, includes the runtime, content library and all 16 optimized 1080p background videos, and creates a Start menu shortcut. Backgrounds appear in **Media → Backgrounds** as Built-in.
 
 The smaller **Atrium-0.1.11-x64.msi** is an application-only compatibility update for older updaters. It excludes background videos; use the full setup to get them.
 
@@ -13,6 +13,8 @@ The smaller **Atrium-0.1.11-x64.msi** is an application-only compatibility updat
 In Atrium, open **Settings → Check for updates**. Downloads are verified with SHA-256 before installation. Your settings and services remain in your user folders. Versions before 0.1.11 have a 1 GB limit; first install the 0.1.11 bridge update or run the latest full setup manually. Current updates use the full setup to retain installed backgrounds.
 
 Each release includes `latest.json` for update detection and `SHA256SUMS.txt` for independent verification.
+
+Settings uses concise labels. Updates are available through **Check for updates**.
 
 ## Support
 
